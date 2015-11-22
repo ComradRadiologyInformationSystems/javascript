@@ -1128,7 +1128,7 @@
 
 ## Naming Conventions
 
-  - Use UPPERCSAE and underscoroes to define CONSTANTS
+  - Use UPPERCSAE and under scores to define CONSTANTS
    
     ```javascript
     // bad
