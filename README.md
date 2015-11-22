@@ -1128,6 +1128,19 @@
 
 ## Naming Conventions
 
+  - Use UPPERCSAE and underscoroes to define CONSTANTS
+   
+    ```javascript
+    // bad
+    var thisIsAConstant = 'some';
+	var ANOTHERCONSTANT = 'another';
+	
+    // good
+    var THIS_IS_A_CONSTANT = 'constant';
+	var ANOTHER_CONSTANT = 'anothder';
+	var NAME = 'Jhon';
+    ```
+
   - Avoid single letter names. Be descriptive with your naming.
 
     ```javascript
